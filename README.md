@@ -100,7 +100,7 @@ konga的使用手册 详见https://github.com/pantsel/konga
  
  ## konga使用
  
- [![Dashboard](screenshots/bc3.png)](https://raw.githubusercontent.com/pantsel/konga/master/screenshots/bc2.png)
+ [![konga](konga.png)](https://github.com/zzhengzhuo/konga-reference/blob/master/konga.png)
 
  ### 添加upstream
  
