@@ -9,6 +9,7 @@ konga的使用手册 详见https://github.com/pantsel/konga
 - [**konga配置与运行**](#konga配置与运行)
 - [**konga升级**](#konga升级)
 - [**konga使用**](#konga使用)
+  - [**添加ssl证书**](#添加ssl证书)
   - [**添加upstream**](#添加upstream)
 
 ## konga的特性与功能
@@ -102,6 +103,8 @@ konga的使用手册 详见https://github.com/pantsel/konga
  
  [![konga](konga.png)](https://github.com/zzhengzhuo/konga-reference/blob/master/konga.png)
 
- ### 添加upstream
+ ### 添加ssl证书
  
+ [![添加ssl证书](添加ssl证书.png)](https://github.com/zzhengzhuo/konga-reference/blob/master/添加ssl证书.png)
+
  
