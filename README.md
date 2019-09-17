@@ -11,6 +11,10 @@ konga的使用手册 详见https://github.com/pantsel/konga
 - [**konga使用**](#konga使用)
   - [**添加ssl证书**](#添加ssl证书)
   - [**添加upstream**](#添加upstream)
+  - [**添加target目标主机**](#添加target)
+  - [**添加service**](#添加service)
+  - [**添加route**](#添加route)
+  - [**添加plugin**](#添加plugin)
 
 ## konga的特性与功能
 
@@ -112,6 +116,14 @@ konga的使用手册 详见https://github.com/pantsel/konga
  [![添加upstream](添加upstream.png)](https://github.com/zzhengzhuo/konga-reference/blob/master/添加upstream.png)
  
  [![添加upstream参数](添加upstream参数.png)](https://github.com/zzhengzhuo/konga-reference/blob/master/添加upstream参数.png)
+ 
+ ### 添加target
+ 
+ 添加target目标主机。
+ 
+ [![添加target](添加target.png)](https://github.com/zzhengzhuo/konga-reference/blob/master/添加target.png)
+ 
+ [![添加target参数](添加target参数.png)](https://github.com/zzhengzhuo/konga-reference/blob/master/添加target参数.png)
  
  ### 添加service
  
