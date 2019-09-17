@@ -111,6 +111,8 @@ konga的使用手册 详见https://github.com/pantsel/konga
  
  [![添加upstream](添加upstream.png)](https://github.com/zzhengzhuo/konga-reference/blob/master/添加upstream.png)
  
+ [![添加upstream参数](添加upstream参数.png)](https://github.com/zzhengzhuo/konga-reference/blob/master/添加upstream参数.png)
+ 
  ### 添加service
  
  [![添加service](添加service.png)](https://github.com/zzhengzhuo/konga-reference/blob/master/添加service.png)
