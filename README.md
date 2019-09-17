@@ -129,6 +129,8 @@ konga的使用手册 详见https://github.com/pantsel/konga
  
  [![添加service](添加service.png)](https://github.com/zzhengzhuo/konga-reference/blob/master/添加service.png)
  
+ [![添加service参数](添加service参数.png)](https://github.com/zzhengzhuo/konga-reference/blob/master/添加service参数.png)
+ 
  ### 添加route
  
  [![添加route](添加route.png)](https://github.com/zzhengzhuo/konga-reference/blob/master/添加route.png)
