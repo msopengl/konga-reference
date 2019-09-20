@@ -145,5 +145,7 @@ konga的使用手册 详见https://github.com/pantsel/konga
  
  [![添加plugin](添加plugin.png)](https://github.com/zzhengzhuo/konga-reference/blob/master/添加plugin.png)
  
+ [![添加plugin2](添加plugin2.png)](https://github.com/zzhengzhuo/konga-reference/blob/master/添加plugin2.png)
+ 
 
  
