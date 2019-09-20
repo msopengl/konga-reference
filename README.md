@@ -136,7 +136,7 @@ konga的使用手册 详见https://github.com/pantsel/konga
  [![添加route](添加route.png)](https://github.com/zzhengzhuo/konga-reference/blob/master/添加route.png)
  
  
- [![添加route1](添加route1.png)](https://github.com/zzhengzhuo/konga-reference/blob/master/添加route1.png)
+ [![添加route2](添加route2.png)](https://github.com/zzhengzhuo/konga-reference/blob/master/添加route2.png)
  
  
  [![添加route参数](添加route参数.png)](https://github.com/zzhengzhuo/konga-reference/blob/master/添加route参数.png)
